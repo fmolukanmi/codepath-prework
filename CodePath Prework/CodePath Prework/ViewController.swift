@@ -13,10 +13,16 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    @IBOutlet weak var titleLabel: UILabel!
 
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         let randomColor = changeColor()
-           view.backgroundColor = randomColor
+        view.backgroundColor = randomColor
+        
+        let randomLabelColor = changeColor()
+        titleLabel.textColor = randomLabelColor
+
     }
     func changeColor() -> UIColor{
 
