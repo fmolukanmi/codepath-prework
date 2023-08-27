@@ -19,7 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/UJJ151T' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![Video Walkthrough](https://i.imgur.com/NbT9m5C.mp4)
+![](https://imgur.com/a/za6k0A2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
